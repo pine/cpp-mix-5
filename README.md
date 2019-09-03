@@ -1,4 +1,4 @@
-## C++ MIX #5
+## C++ MIX #5 example
 
 ## Requirements
 
